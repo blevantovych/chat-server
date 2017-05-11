@@ -1,0 +1,4 @@
+{
+    "mongodb_url": "mongodb://localhost:27017/eleksfrontendcamp",
+    "jwt_secret": "Spicy#Car!63601"
+}
